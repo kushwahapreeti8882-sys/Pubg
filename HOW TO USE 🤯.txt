@@ -1,0 +1,19 @@
+SEND ALL COMMAND ONE BY ONE 👍
+👇👇👇👇👇👇
+
+pip install telebot
+chmod +x *
+pyhton loop.py
+
+make another terminal 👍
+👇👇👇👇
+
+chmod +x *
+python serverr.py
+
+NOW YOUR SCRIPT RUN PERFECTLY 🐱 
+
+
+https://t.me/DJinjectorVIP
+
+https://t.me/DJinjectorVIP
